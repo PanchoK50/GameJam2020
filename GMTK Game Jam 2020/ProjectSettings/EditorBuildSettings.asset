@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e0b307490fd7e9a448315f50a8955f70
+  - enabled: 1
+    path: Assets/Scenes/NightmareScene.unity
+    guid: 1263ee4844d20c347a256e7ea4a642fe
+  - enabled: 0
+    path: Assets/Scenes/Testing.unity
+    guid: b6b72035eb63298438550274237c2377
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Tutorial.unity
+    guid: b8d797c649cc7334c9d5b9a851eb5fbf
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - Double Paths.unity
+    guid: 4e79a14e080d5cb4190a184a73adc797
+  - enabled: 1
+    path: Assets/Scenes/Level 3 - Spicy.unity
+    guid: cc43d15d0eb03b74ca7803733cc8f253
+  - enabled: 1
+    path: Assets/Scenes/Level 4 - mulriple puzzles.unity
+    guid: d8b18c2f89974bd4e82d78ff7402756b
+  - enabled: 1
+    path: Assets/Scenes/Level 5 - Mazeception.unity
+    guid: 674c460c1898b6f4096a678821d04d81
+  - enabled: 1
+    path: Assets/Scenes/Level 6 - Optional course.unity
+    guid: 8ce412def1e2203449f616bb5e245d58
+  - enabled: 1
+    path: Assets/Scenes/FinalScene.unity
+    guid: 9ce57f4479ad9db4e8483369f0c2f293
+  m_configObjects: {}
